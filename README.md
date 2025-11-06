@@ -26,16 +26,15 @@ The goal is to uncover insights into **spending patterns**, **customer segments*
 ## 🐍 3. Exploratory Data Analysis using Python
 Performed data cleaning, preprocessing, and feature engineering using **Python (Pandas, NumPy)**.
 
-**Steps:**
-1. **Data Loading:** Imported dataset using Pandas.  
-2. **Initial Exploration:** Used `df.info()` and `.describe()` for data summary.  
-3. **Missing Data Handling:** Imputed missing values in `review_rating` with median per product category.  
-4. **Column Standardization:** Converted column names to `snake_case`.  
-5. **Feature Engineering:**
-   - Created `age_group` by binning customer ages.
-   - Added `purchase_frequency_days` based on frequency mapping.  
-6. **Data Consistency Check:** Dropped redundant column `promo_code_used`.  
-7. **Database Integration:** Exported cleaned data to **MySQL** for SQL-based business analysis.  
+**Steps:**  
+1. 🧾 **Data Loading:** Imported dataset using Pandas  
+2. 🔍 **Initial Exploration:** Used `df.info()` and `.describe()` for data summary  
+3. 🧩 **Missing Data Handling:** Filled missing `review_rating` values with median by product category  
+4. 🧱 **Column Standardization:** Renamed columns to `snake_case` format  
+5. ⚙️ **Feature Engineering:**  
+   - Created `age_group` by binning customer ages  
+   - Added `purchase_frequency_days` from frequency mapping  
+6. 🗄️ **Database Integration:** Exported cleaned data to **PostgreSQL** for SQL-based analysis  
 
 ---
 
@@ -89,10 +88,10 @@ An **interactive Power BI dashboard** was designed for visual storytelling.
 
 ---
 
-## 📬 Contact
-**Author:** Your Name  
-**Email:** your.email@example.com  
-**GitHub:** [@yourusername](https://github.com/yourusername)
+## 🔗 Connect With Me
+* 📧 Email: [umadurai2014@gmail.com] (mailto:umadurai2014@gmail.com)
+* 💼 LinkedIn: [Umamaheswari D] (https://www.linkedin.com/in/uma-maheswari-d))
+* 🌟 GitHub: umadurai2014-png (https://github.com/umadurai2014-png)
 
 
 
